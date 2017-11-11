@@ -1,0 +1,4 @@
+# Ignoring some stuff
+node_modules/
+package-lock.json
+.idea/
